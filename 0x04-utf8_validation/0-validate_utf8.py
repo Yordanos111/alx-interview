@@ -2,6 +2,7 @@
 """
 UTF-8 Validation
 """
+
 def validUTF8(data):
     """
     data: a list of integers
